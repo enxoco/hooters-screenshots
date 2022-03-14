@@ -1,3 +1,15 @@
 - url: https://www.hooters.com
-  output: shot.png
-  height: 800
+  output: homepage.png
+  height: 1920
+- url: https://www.hooters.com/r/acing
+  output: racing.png
+  height: 1920
+- url: https://www.hooters.com/football
+  output: football.png
+  height: 1920
+- url: https://www.hooters.com/hooters-girls
+  output: hooters-girls.png
+  height: 1920
+- url: https://www.hooters.com/menu
+  output: menu.png
+  height: 1920
